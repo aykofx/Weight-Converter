@@ -13,3 +13,10 @@ A simple JavaFX application that converts weight between kilograms and pounds.
 - Enter a weight value in the text field.
 - Select the unit (Kilograms or Pounds) from the choice box.
 - Click the "Calculate" button to see the converted result.
+
+**Requirements**
+- Java 11 or newer
+- JavaFX SDK
+
+**Running the App**
+- Compile and run your JavaFX application as usual. Make sure JavaFX libraries are properly linked.
